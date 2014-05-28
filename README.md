@@ -5,6 +5,10 @@ This repository was created as a backup and quick get for my Vim settings and fo
 <ul>
   <li>Switching Tabs = Ctrl-] or Ctrl-\</li>
   <li>Default Colorscheme = Distinguished</li>
+  <li>Added SnipMate</li>
+  <li>Added EasyMotion</li>
+  <li>Added Sparkup</li>
+  <li>Added Surround</li>
 </ul>
 <p>
 Included colorschemes are: distinguished, railcasts, solarized, guardian
